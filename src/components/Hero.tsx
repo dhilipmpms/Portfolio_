@@ -13,7 +13,7 @@ const Hero = () => {
           <div className="relative group">
             <div className="w-72 h-72 md:w-96 md:h-96 rounded-full overflow-hidden glass p-2 transition-transform duration-500 ease-out transform group-hover:scale-105">
               <img
-                src="img/profile.jpg"
+                src="dist/assets/img/profile.jpg"
                 alt="Profile"
                 className="w-full h-full object-cover rounded-full transform transition-transform duration-700 ease-out group-hover:scale-110"
               />
