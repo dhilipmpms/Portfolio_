@@ -5,7 +5,7 @@ const projects = [
   {
     title: 'Library Management Project',
     description: 'A full-stack library management system with real-time book tracking, user management, and Excel data integration.',
-    image: 'dist/assets/img/library.jpg',
+    image: 'img/library.jpg',
     technologies: ['Django', 'JavaScript', 'Sqlite', 'HTML/CSS'],
     github: 'https://github.com/dhilipmpms/Library_management_system',
     demo: 'https://demo.com'
